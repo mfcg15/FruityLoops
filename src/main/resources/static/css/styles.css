@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+h1
+{
+	color:#e59496;
+	padding: 10px 0px 10px 0px;
+}
+
+.fondo
+{
+	background-color:  #ffb5c2;
+	padding: 20px;
+}
+
+.table
+{
+	background-color: white;
+}
